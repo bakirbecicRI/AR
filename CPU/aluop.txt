@@ -1,0 +1,10 @@
+
+0000   C = B << sa	Left shift
+0010   C = A + B 	Addition
+0100   C = B >> sa 	Right shift Logical
+0101   C = B >>> sa 	Right shift arithmetic
+0110   C = A - B 	Subtraction
+1000   C = A & B 	Bitwise AND
+1010   C = A | B 	Bitwise OR
+1100   C = A ^ B 	Bitwise XOR
+1110   C = ~(A | B) 	Bitwise NOR
